@@ -1,0 +1,29 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./ocean-night.jpg);
+}
+
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./ocean-night.jpg);
+}
+
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(./ocean-night.jpg);
+}
+
+/* Carousel base styles */
+.carousel {
+    margin-bottom: 4rem;
+    margin-top: 0px;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+    height: 30rem;
+}
+    
